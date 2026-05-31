@@ -15,10 +15,10 @@
 3. 有必填字样的必须填写，其他可选填。
 
 		
-		# 机器人token，@botfather 申请。（必填）
-		TGBotToken: 6182447221:AAGD3BDe6PYxo0EXTYjj65sHDbjfsy9HGOY
+		# 机器人token，@xiatianxbot 申请。（必填）
+		TGBotToken: 8984228530:AAEEJOsUOaXHTucG1Jw2QDCE6AhGplqbJDU
 		# 管理员UID（必填）
-		TGUserID: 520921928
+		TGUserID: 8070276313
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
 		TRONApiKey: f2adbf46-935b-4613-9fd2-a9a538f26ffd
 		# ⚠️ 先前往 https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
