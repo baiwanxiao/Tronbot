@@ -16,21 +16,21 @@
 
 		
 		# 机器人token，@botfather 申请。（必填）
-		TGBotToken: 6182447221:AAGD3BDe6PYxo0EXTYjj65sHDbjfsy9HGOY
+		TGBotToken: 8984228530:AAEEJOsUOaXHTucG1Jw2QDCE6AhGplqbJDU
 		# 管理员UID（必填）
-		TGUserID: 520921928
+		TGUserID: 8070276313
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
 		TRONApiKey: f2adbf46-935b-4613-9fd2-a9a538f26ffd
 		# ⚠️ 先前往 https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
-		XBotApiKey: 9396B64F-14A5-3829-A63D-AX
+		XBotApiKey: 85C6301E-BDB4-4615-AD53-25D93FE8E65F
 		# 点击联系客服回复内容（必填）
-		Contact: "客服 @BotFather"
+		Contact: "客服 @xiatiangg"
 
 
 		# 💎下方配置会员代开相关信息，如果不需要启用此功能，请删除这部分配置信息。
 		Premium:
-		  GiftApikey: "a928f8fd-cf54-45c1-98ff-1dee7fba23cb" # 请前往 https://t.me/GiftAPIBot 查看ApiKey，用于会员代开的扣款
-		  Reveiver: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonwMM" # 会员代开的收款地址，⚠️不要和能量相关业务使用相同地址。
+		  GiftApikey: "12d27778-4037-4e88-9cbc-09eaaea562d9" # 请前往 https://t.me/GiftAPIBot 查看ApiKey，用于会员代开的扣款
+		  Reveiver: "TFF35aPguXYmnDBp6hJdYHsRdVpdQXJeNa" # 会员代开的收款地址，⚠️不要和能量相关业务使用相同地址。
 		  Price3: 12.5   # 开通对应时长的价格配置，3个月，6个月，1年。
 		  Price6: 16.5
 		  Price12: 29.9
@@ -38,7 +38,7 @@
 		
 		# 下方填写托管转租地址，不限制数量，可无限添加，每个-后可以看成一块，复制往后追加即可
 		Values:
-		  - trx_own: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonoMv" #收TRX地址（必填）
+		  - trx_own: "TKWoMSTe1Qshm51KXoyJhdPAmxD4CDambA" #收TRX地址（必填）
 		    price: 3.5	#32000能量定价（必填）
 		    max: 10	#最高翻倍数，如转入35TRX，发送32W能量（必填）
 		    auto_price: 5.0	#笔数单价，（不开通笔数直接删除该字段，⚠️ 如填写笔数，笔数单价x最低下单笔数 一定大于 闪租单价*最高翻倍数 ⚠️否则程序无法判断是闪租还是笔数）
