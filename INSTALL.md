@@ -20,7 +20,7 @@
 		# 管理员UID（必填）
 		TGUserID: 520921928
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
-		TRONApiKey: xxxx-xx-xx-xx-xx
+		TRONApiKey: f2adbf46-935b-4613-9fd2-a9a538f26ffd
 		# ⚠️ 先前往 https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
 		XBotApiKey: 9396B64F-14A5-3829-A63D-AX
 		# 点击联系客服回复内容（必填）
