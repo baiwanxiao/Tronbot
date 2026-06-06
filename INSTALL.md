@@ -16,21 +16,21 @@
 
 		
 		# 机器人token，@botfather 申请。（必填）
-		TGBotToken: 8984228530:AAEEJOsUOaXHTucG1Jw2QDCE6AhGplqbJDU
+		TGBotToken: 898422XHTucG1Jw2QDCE6AhGplqbJDU
 		# 管理员UID（必填）
 		TGUserID: 8070276313
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
 		TRONApiKey: f2adbf46-935b-4613-9fd2-a9a538f26ffd
 		# ⚠️ 先前往 https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
-		XBotApiKey: 85C6301E-BDB4-4615-AD53-25D93FE8E65F
+		XBotApiKey: 85C6301E-53-25D93FE8E65F
 		# 点击联系客服回复内容（必填）
-		Contact: "客服 @xiatiangg"
+		Contact: "客服 @xiangg"
 
 
 		# 💎下方配置会员代开相关信息，如果不需要启用此功能，请删除这部分配置信息。
 		Premium:
-		  GiftApikey: "12d27778-4037-4e88-9cbc-09eaaea562d9" # 请前往 https://t.me/GiftAPIBot 查看ApiKey，用于会员代开的扣款
-		  Reveiver: "TFF35aPguXYmnDBp6hJdYHsRdVpdQXJeNa" # 会员代开的收款地址，⚠️不要和能量相关业务使用相同地址。
+		  GiftApikey: "12d27778-4037-09eaaea562d9" # 请前往 https://t.me/GiftAPIBot 查看ApiKey，用于会员代开的扣款
+		  Reveiver: "TFF35aPguXYmnDBp6" # 会员代开的收款地址，⚠️不要和能量相关业务使用相同地址。
 		  Price3: 12.5   # 开通对应时长的价格配置，3个月，6个月，1年。
 		  Price6: 16.5
 		  Price12: 29.9
